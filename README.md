@@ -36,11 +36,13 @@ Course Link: https://www.udemy.com/course/spring-boot-tutorial-for-beginners/
 ### CheatSheet
 
 ```
+ctrl + shift + F: Formats code
+ctrl + shift + S: Source
 ctrl + 3: Find Actions
-ctrl + shift + S:
 ctrl + shift + T: Open Types
 ctrl + shift + R: Open Resource
 ctrl + E: Search Open Files
+ctrl + rePag or ctrl + avPag: Move between opened files
 alt + -> OR alt + <-: Move between opened files
 ```
 
