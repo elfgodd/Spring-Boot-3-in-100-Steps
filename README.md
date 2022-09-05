@@ -36,7 +36,12 @@ Course Link: https://www.udemy.com/course/spring-boot-tutorial-for-beginners/
 ### CheatSheet
 
 ```
-
+ctrl + 3: Find Actions
+ctrl + shift + S:
+ctrl + shift + T: Open Types
+ctrl + shift + R: Open Resource
+ctrl + E: Search Open Files
+alt + -> OR alt + <-: Move between opened files
 ```
 
 ## Folder 00: Course Content
