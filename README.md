@@ -33,7 +33,7 @@ Course Link: https://www.udemy.com/course/spring-boot-tutorial-for-beginners/
 - APPENDIX - Introduction to JPA With Spring Boot in 10 Steps - V2
 - APPENDIX - Introduction to Functional Programming in 30 Minutes
 
-### CheatSheet
+### CheatSheet Eclipse
 
 ```
 ctrl + shift + F: Formats code
@@ -48,11 +48,16 @@ alt + -> OR alt + <-: Move between opened files
 
 ## Folder 00: Course Content
 
+## Section 00: Course Content
+
+## Folder 01: Introduction
+
 ## Section 01: Introduction
 
 Spring Quickstart Guide  
-https://spring.io/quickstart  
+https://spring.io/quickstart
 
+## Folder 02: 02-Intro-Spring-Boot-10Steps
 
 ## Section 02: Introduction to Spring Boot in 10 Steps - V2
 
@@ -71,3 +76,17 @@ Import the downloaded spring project in Eclipse
 
 // Spring Boot Actuator Not Working – Troubleshoot  
 https://www.yawintutor.com/spring-boot-actuator-not-working/
+
+## Folder 03: 03-WebApplication-Spring-Boot-V2
+
+## Section 03: Web Application with Spring Boot - V2
+
+```
+CODE BACKUP FILES and STEP BY STEP CHANGES : For Reference
+Bookmark the GitHub folder for this section: https://github.com/in28minutes/spring-boot-master-class/tree/master/02.Spring-Boot-Web-Application-V2
+
+Help for Debugging Problems:
+Here's the code backup at the end of step 05: https://github.com/in28minutes/spring-boot-master-class/blob/master/02.Spring-Boot-Web-Application-V2/Step05.md
+
+Step by Step changes are detailed here: https://github.com/in28minutes/spring-boot-master-class/blob/master/02.Spring-Boot-Web-Application-V2/99-step-by-step-changes.md#step01
+```

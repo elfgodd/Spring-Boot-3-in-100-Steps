@@ -1,6 +1,7 @@
 End points:
 http://localhost:8080/courses
 http://localhost:8080/currency-configuration
+http://localhost:8080/actuator
 
 // Environment information
 # Will print everything is in the log
