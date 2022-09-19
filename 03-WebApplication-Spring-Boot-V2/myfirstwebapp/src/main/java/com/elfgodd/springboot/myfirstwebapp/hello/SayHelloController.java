@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 // 1. tell spring is a spring bean
 @Controller
-public class SayhelloController {
+public class SayHelloController {
     //"say-hello" => "Hello! What are you learning today?"
 
     // url: say-hello
@@ -32,5 +32,13 @@ public class SayhelloController {
         sb.append("</html>");
 
         return sb.toString();
+    }
+
+    // sayHello.jsp
+    // "say-hello-jsp" => sayHello.jsp
+    // /src/main/resources/META-INF/resources/WEB-INF/jsp/sayHello.jsp
+    @RequestMapping("say-hello-jsp")
+    public String sayHelloJsp() {
+        return "sayHello";
     }
 }

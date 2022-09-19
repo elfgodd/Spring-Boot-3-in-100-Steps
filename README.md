@@ -46,6 +46,10 @@ ctrl + rePag or ctrl + avPag: Move between opened files
 alt + -> OR alt + <-: Move between opened files
 ```
 
+## Resources:
+
+- https://mvnrepository.com
+
 ## Folder 00: Course Content
 
 ## Section 00: Course Content
